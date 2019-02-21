@@ -1,0 +1,20 @@
+[package]
+name = "pre-historic"
+version = "0.1.0"
+authors = ["Vasiliy G. Stavenko <stavenko@gmail.com>"]
+edition = "2018"
+  
+
+[dependencies]
+amethyst='*'
+amethyst_core='*'
+amethyst_assets='*'
+amethyst_renderer='*'
+glsl-layout='*'
+nalgebra='*'
+nalgebra-glm='*'
+gfx = '*'
+gfx_core = '*'
+winit='*'
+shred-derive='*'
+shred='*'
